@@ -1,4 +1,4 @@
-package strategy;
+package parte_1.strategy;
 
 public class Main {
 
